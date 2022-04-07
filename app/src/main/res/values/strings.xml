@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BT2Android_4</string>
+    <string name="intro">Hello World, ContactActivity!</string>
+    <string name="view_contact">View Contact Information</string>
+    <string name="name">Name</string>
+    <string name="your_name">Your name</string>
+    <string name="your_email">Your email</string>
+    <string name="project">Project</string>
+    <string name="email">Email</string>
+    <string name="name_project">Name project</string>
+    <string name="getproject">GetProject</string>
+    <string name="getemail">GetEmail</string>
+    <string name="getname">GetName</string>
+    <string name="finish">Finish</string>
+</resources>
